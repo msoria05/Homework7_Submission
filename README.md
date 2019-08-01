@@ -1,5 +1,6 @@
 # Homework7_Submission
 Employee Database: A Mystery in Two Parts
+  
   Submitted:
   •	An image file of the ERD
   •	Table schemata .sql file
